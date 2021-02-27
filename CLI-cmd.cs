@@ -25,24 +25,18 @@ namespace Davidix_Original_File_Downloader
                     getSRC();
                     break;
                 /*************************/
-
                 case "dir":
                     getDIR();
                     break;
                 /*************************/
-
                 case "fltr":
                     getFLTR();
                     break;
                 /*************************/
-
                 case "dl":
                     dl();
                     break;
                 /*************************/
-
-
-
                 case "exit":
                 case "q":
                   
