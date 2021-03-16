@@ -21,8 +21,6 @@ namespace Davidix_Original_File_Downloader
         
         string[] dlfiles,svfiles;
 
-
-
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             textBox1.Text = lstFiles.SelectedItem.ToString();
