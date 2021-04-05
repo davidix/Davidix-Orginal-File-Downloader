@@ -10,7 +10,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-
 namespace Davidix_Original_File_Downloader
 {
     public partial class Main : Form
@@ -44,8 +43,6 @@ namespace Davidix_Original_File_Downloader
         
         }
 
-        
-
         private void btnCopy_Click(object sender, EventArgs e)
         {
             string temp = "";
@@ -60,7 +57,6 @@ namespace Davidix_Original_File_Downloader
         {
             Application.Exit();
         }
-
 
         private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
         {
