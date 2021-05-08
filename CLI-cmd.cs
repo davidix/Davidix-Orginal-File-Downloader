@@ -76,10 +76,10 @@ namespace Davidix_Original_File_Downloader
 
         public static void dl()
         {
-            if (Directory.Exists(dir))
-                svfiles = clshp.GetDirFiles(dir, null, true, false, null);
-            for (int i = 0; i < dlfiles.Length; i++)
-                clshp.Download((dlfiles[i]), svfiles[i]);
+            // if (Directory.Exists(dir))
+            //     svfiles = clshp.GetDirFiles(dir, null, true, false, null);
+            // for (int i = 0; i < dlfiles.Length; i++)
+            //     clshp.Download((dlfiles[i]), svfiles[i]);
         }
 
         public void getFils()
