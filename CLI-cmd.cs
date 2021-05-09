@@ -41,10 +41,6 @@ namespace Davidix_Original_File_Downloader
                 case "q":
                   
                     break;
-
-
-
-
                 default:
                     break;
             }
