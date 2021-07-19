@@ -2,6 +2,8 @@
 {
     partial class frmAbout
     {
+
+        
         /// <summary>
         /// Required designer variable.
         /// </summary>
