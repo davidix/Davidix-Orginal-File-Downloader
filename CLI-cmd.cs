@@ -11,6 +11,10 @@ namespace Davidix_Original_File_Downloader
 {
     class CLI_cmd
     {
+
+
+
+        
         public static string dir, src, fltr;
         Helper clshp = new Helper();
 
